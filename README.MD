@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/></p>
 
-<h1 align="center">Hi there 👋, I'm Marc</h1>
+<h1 align="center">Hi  👋, I'm Marc</h1>
 <h3 align="center">I'm a web developper from Madagascar 🇲🇬</h3>
 
 <p align="center">I'm particularly interested in backend developpement and i'm still learning to enhance my skills</p>
