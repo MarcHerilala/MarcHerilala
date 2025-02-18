@@ -36,8 +36,9 @@
 
 ## 🔥 My Stats:
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Marc985)
 <p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+
 </p>
 
 
