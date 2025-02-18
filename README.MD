@@ -35,16 +35,18 @@
 ---
 
 ## 🔥 My Stats:
-<p align="center">
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
-</p>
-
-
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://github-readme-streak-stats-mu-weld.vercel.app?user=Marc985" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc985&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ---
 
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Marc985&color=blue)  
+
+
