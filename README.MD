@@ -36,7 +36,7 @@
 
 ## 🔥 My Stats:
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Marc985&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Marc985" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -45,5 +45,4 @@
 
 ---
 
-## 🎯 Fun Fact:
 ![Profile Views](https://komarev.com/ghpvc/?username=Marc985&color=blue)  
