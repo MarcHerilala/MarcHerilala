@@ -7,6 +7,8 @@
 
 ---
 
+<p style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
 ## ⚒️ Languages
 <p align="center">
   <span style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
@@ -17,7 +19,6 @@
   </span>
 </p>
 
----
 
 ## ⚙️ Frameworks
 <p align="center">
@@ -28,7 +29,6 @@
   </span>
 </p>
 
----
 
 ## 🛠️ Tools
 <p align="center">
@@ -39,8 +39,6 @@
   </span>
 </p>
 
----
-
 ## 🗃️ Databases
 <p align="center">
   <span style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
@@ -49,6 +47,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
   </span>
 </p>
+
+
+</p>
+
+
 
 ---
 
