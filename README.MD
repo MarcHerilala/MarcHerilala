@@ -36,7 +36,6 @@
 
 ## 🔥 My Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marc985" alt="GitHub Streak" />
 </p>
 
 <p align="center">
