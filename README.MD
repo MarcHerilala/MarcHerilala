@@ -54,7 +54,7 @@
 
 ## 🔥 My Stats:
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats-mu-weld.vercel.app?user=Marc985" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc985&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-mu-weld.vercel.app?user=MarcHerilala" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcHerilala&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
 </p>
 
