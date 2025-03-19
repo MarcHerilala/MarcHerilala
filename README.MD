@@ -35,7 +35,8 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats-mu-weld.vercel.app?user=MarcHerilala" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MarcHerilala" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcHerilala&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -43,10 +44,10 @@
 
 <h3 align="center">🌍 Let's Connect! 🌍</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcherilala" target="_blank">
+  <a href="https://www.linkedin.com/in/marc-razanajatovo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:marc@example.com">
+  <a href="mailto:hei.marc.3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
