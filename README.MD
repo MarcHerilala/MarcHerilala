@@ -35,9 +35,9 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MarcHerilala" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcHerilala&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=dark&background=020712&border=020712&text_color=A4A6AC"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna2206&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna2206&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&langs_count=8">
 </p>
 
 ---
