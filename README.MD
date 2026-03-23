@@ -1,54 +1,74 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B2A,100:102A43&height=140&section=header"/>
 </p>
 
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marc!;Welcome+to+my+profile!;&repeat=false"/>
-
-</h1>
-
-<h3 align="center">I'm a web developer from Madagascar 🇲🇬</h3>
-<p align="center">I'm particularly interested in backend development and I'm always learning to enhance my skills. 🚀</p>
-
----
-
-## ⚒️ Technologies & Tools
 <p align="center">
-  <span style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B5563&center=true&vCenter=true&width=500&lines=Marc+Herilala+Razanajatovo;Fullstack+%26+Mobile+Developer;"/>
 </p>
 
 ---
 
-## 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcHerilala&theme=dark&background=020712&border=020712&text_color=A4A6AC"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcHerilala&hide_title=true&count_private=true&show_icons=true&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
+</p>
+
+<p align="center" style="line-height:1.6; max-width:700px; margin:auto;">
+<span style="font-size:48px; font-weight:bold; color:#0A1B2A;">Hi, I'm Marc!</span><br/><br/>
+  
+  I'm a fullstack and mobile developer who loves building applications from backend systems all the way to user interfaces.<br/>
+  I enjoy seeing how all the parts of a system come together and learning how real-world applications are designed and scaled.<br/>
+  
+  I’m always curious, love to improve my skills, and aim to write clean, maintainable code.<br/>
+  
+  Excited to collaborate on meaningful projects and build solutions that make an impact!
+</p>
+
+---
+
+## Core Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-111827?style=for-the-badge"/>
+</p>
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,nestjs,fastapi" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,git,docker,aws" />
+</p>
+
+---
+
+## GitHub Overview
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcHerilala&theme=dark&background=020712&border=020712&text_color=A4A6AC">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcHerilala&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&langs_count=8">
 </p>
 
 ---
 
-<h3 align="center">🌍 Let's Connect! 🌍</h3>
+## Contact
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/marc-razanajatovo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/marc-razanajatovo">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hei.marc.3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  <sub>Clean code. Scalable systems. Continuous learning.</sub>
+</p>
